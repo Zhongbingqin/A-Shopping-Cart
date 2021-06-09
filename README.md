@@ -8,3 +8,6 @@ Functions:
 - Give an overall total.
 
 Interfaces:
+
+![alt text](https://github.com/Zhongbingqin/A-Shopping-Cart/blob/main/images/products_page.png?raw=true)
+![alt text](https://github.com/Zhongbingqin/A-Shopping-Cart/blob/main/images/cart_page.png?raw=true)
